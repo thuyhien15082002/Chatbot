@@ -1,0 +1,8 @@
+fastapi: xây dựng các API RESTful một cách nhanh chóng và hiệu quả.
+Có tích hợp OpenAPI và JSON Schema để tự động tạo tài liệu API
+torch: xử lý ngôn ngữ tự nhiên (NLP)
+nltk: Phân tích văn bản, xây dựng chatbot, hệ thống tìm kiếm, 
+xử lý ngôn ngữ tự nhiên cho các ứng dụng như phân loại email, 
+phân tích cảm xúc và lọc nội dung.
+mysql-connector-python: Kết nối và tương tác với cơ sở dữ liệu MySQL 
+numpy: công cụ tính toán khoa học và xử lý dữ liệu đa chiều (mảng, ma trận).
